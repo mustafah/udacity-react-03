@@ -1,0 +1,10 @@
+{
+    "name": "udacity-mobile-flash-cardsd",
+    "displayName": "Udacity Mobile Flash Cards",
+    "expo": {
+        "name": "udacity-mobile-flash-cards",
+        "slug": "udacity-mobile-flash-cards",
+        "version": "1.0.0",
+        "assetBundlePatterns": ["**/*"]
+    }
+}
